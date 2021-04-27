@@ -1,0 +1,33 @@
+# Prefix any file or folder name with the key below to ignore it
+# and prevent it from being pushed to the remote repository.
+~*
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+
+# Ignore javascript related files.
+node_modules/
+
+# Ignore java related files.
+*.class
