@@ -31,3 +31,6 @@ node_modules/
 
 # Ignore java related files.
 *.class
+
+# Ignore python files.
+__pycache__/
