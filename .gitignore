@@ -1,5 +1,5 @@
-# Prefix any file or folder name with the key below to ignore it
-# and prevent it from being pushed to the remote repository.
+# This is a pattern for ignoring custom files.
+# Anything (file or directory) that is prefixed with '~' will be ignored.
 ~*
 
 #ignore thumbnails created by windows
