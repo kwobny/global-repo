@@ -10,4 +10,5 @@ Things to do:
     
   If you want to do better, you will have to figure something out.
     
+- [ ] Consider creating a best practices file in global repo general branch to store notes on best git practices
 - [ ] Maybe rebase branches in global repo and organize history
